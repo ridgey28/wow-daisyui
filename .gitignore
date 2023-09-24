@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Other
+.DS_Store
+Thumbs.db
