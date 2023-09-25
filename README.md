@@ -52,7 +52,7 @@
 
 Wow Daisy UI is a WordPress theme which follows a step-by step tutorial on how to create a traditional WP theme using modern technologies. Simply start at Part 1 and work your way through.
 
-Part 1 - Initial setup of WordPress, Laravel Mix, Blank Slate WP Theme, Tailwind and Daisy UI
+Part 1 - Initial setup of WordPress, Laravel Mix, Blank Slate WP Theme, Tailwind and Daisy UI (https://www.worldoweb.co.uk/2023/awesome-daisy-ui-wordpress-theme-part-1)
 
 
 
