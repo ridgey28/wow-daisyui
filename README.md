@@ -20,10 +20,10 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/ridgey28/wow-daisy-ui.svg?style=flat-square)](LICENSE)
+[![MIT](https://img.shields.io/github/license/ridgey28/wow-daisy-ui.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/ridgey28/wow-daisy-ui/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by ridgey28](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-ridgey28-ff1414.svg?style=flat-square)](https://github.com/ridgey28)
+[![Made with love by ridgey28](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-ridgey28-ff1414.svg?style=flat-square)](https://github.com/ridgey28)
 
 </div>
 
