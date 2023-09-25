@@ -22,7 +22,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/ridgey28/wow-daisy-ui/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![Made with love by ridgey28](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-ridgey28-ff1414.svg?style=flat-square)](https://github.com/ridgey28)
+![Made with love in United Kingdom](https://madewithlove.now.sh/gb?heart=true)
 
 </div>
 
