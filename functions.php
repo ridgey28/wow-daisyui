@@ -38,43 +38,9 @@ function blankslate_enqueue()
 {
     wp_enqueue_style('style', get_template_directory_uri().'/assets/css/styles.css');
     wp_enqueue_script('index', get_template_directory_uri().'/assets/js/app.js', '', false, true);
-    // wp_enqueue_style('blankslate-style', get_stylesheet_uri());
     wp_enqueue_script('jquery');
 }
-add_action('wp_footer', 'blankslate_footer');
-function blankslate_footer()
-{
-    ?>
-<script>
-jQuery(document).ready(function($) {
-var deviceAgent = navigator.userAgent.toLowerCase();
-if (deviceAgent.match(/(iphone|ipod|ipad)/)) {
-$("html").addClass("ios");
-$("html").addClass("mobile");
-}
-if (deviceAgent.match(/(Android)/)) {
-$("html").addClass("android");
-$("html").addClass("mobile");
-}
-if (navigator.userAgent.search("MSIE") >= 0) {
-$("html").addClass("ie");
-}
-else if (navigator.userAgent.search("Chrome") >= 0) {
-$("html").addClass("chrome");
-}
-else if (navigator.userAgent.search("Firefox") >= 0) {
-$("html").addClass("firefox");
-}
-else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
-$("html").addClass("safari");
-}
-else if (navigator.userAgent.search("Opera") >= 0) {
-$("html").addClass("opera");
-}
-});
-</script>
-<?php
-}
+
 add_filter('document_title_separator', 'blankslate_document_title_separator');
 function blankslate_document_title_separator($sep)
 {
@@ -112,6 +78,7 @@ function blankslate_schema_url($atts)
 
     return $atts;
 }
+
 if (!function_exists('blankslate_wp_body_open')) {
     function blankslate_wp_body_open()
     {
