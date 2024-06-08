@@ -2,6 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Custom CSS */
+
+/* The widget classes */
+.widget-area{
+    @apply px-5;
+
+}
+.widget-container {
+    @apply block;
+    @apply my-4
+
+}
+.wp-block-heading, .widget-title{
+    @apply text-4xl;
+    @apply mb-3;
+}
+/*Added padding to the posts*/
 .post{
-    @apply mx-10 p-10;
+    @apply py-5;
 }

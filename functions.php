@@ -7,13 +7,13 @@ function blankslate_setup()
     add_theme_support('post-thumbnails');
     add_theme_support('responsive-embeds');
     add_theme_support('automatic-feed-links');
-    add_theme_support('html5', ['search-form', 'navigation-widgets']);
+    add_theme_support('html5', ['navigation-widgets']);
     add_theme_support('woocommerce');
     global $content_width;
     if (!isset($content_width)) {
         $content_width = 1920;
     }
-    register_nav_menus(['main-menu' => esc_html__('Main Menu', 'blankslate')]);
+    register_nav_menus(['main-menu' => esc_html__('Main Menu', 'blankslate'),'mobile-menu' => esc_html__( 'Mobile Menu', 'blankslate' )]);
 }
 add_action('admin_notices', 'blankslate_notice');
 function blankslate_notice()
