@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/ridgey28/wow-daisy-ui">
+  <a href="https://github.com/ridgey28/wow-daisyui">
     <!-- Please provide path to your logo here -->
     <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
   </a>
@@ -11,19 +11,18 @@
   <a href="#about"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/ridgey28/wow-daisy-ui/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/ridgey28/wow-daisyui/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/ridgey28/wow-daisy-ui/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .<a href="https://github.com/ridgey28/wow-daisy-ui/discussions">Ask a Question</a>
+  <a href="https://github.com/ridgey28/wow-daisyui/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .<a href="https://github.com/ridgey28/wow-daisyui/discussions">Ask a Question</a>
 </div>
 
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/ridgey28/wow-daisy-ui.svg?style=flat-square)](LICENSE)
-
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/ridgey28/wow-daisy-ui/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by ridgey28](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-ridgey28-ff1414.svg?style=flat-square)](https://github.com/ridgey28)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/ridgey28/wow-daisyui/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+![Made with love in United Kingdom](https://madewithlove.now.sh/gb?heart=true)
 
 </div>
 
@@ -89,11 +88,11 @@ Each tutorial will continue to add Dasiy UI components. At the end of part 1 the
 
 ## Roadmap
 
-See the [open issues](https://github.com/ridgey28/wow-daisy-ui/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ridgey28/wow-daisyui/issues) for a list of proposed features (and known issues).
 
-- [Top Feature Requests](https://github.com/ridgey28/wow-daisy-ui/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/ridgey28/wow-daisy-ui/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/ridgey28/wow-daisy-ui/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+- [Top Feature Requests](https://github.com/ridgey28/wow-daisyui/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/ridgey28/wow-daisyui/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/ridgey28/wow-daisyui/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
 
@@ -101,7 +100,7 @@ Contact me through my contact form on my [blog](https://www.worldoweb.co.uk/cont
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Discussions](https://github.com/ridgey28/wow-daisy-ui/discussions)
+- [GitHub Discussions](https://github.com/ridgey28/wow-daisyui/discussions)
 - Contact options listed on [this GitHub profile](https://github.com/ridgey28)
 
 
@@ -116,7 +115,7 @@ Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you f
 
 The original setup of this repository is by [Tracy Ridge](https://github.com/ridgey28).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/ridgey28/wow-daisy-ui/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/ridgey28/wow-daisyui/contributors).
 
 ## Security
 
