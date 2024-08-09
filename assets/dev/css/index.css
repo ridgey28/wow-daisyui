@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom CSS */
+
+/* The widget classes */
+.widget-area{
+    @apply px-5;
+
+}
+.widget-container {
+    @apply block;
+    @apply my-4
+
+}
+.wp-block-heading, .widget-title{
+    @apply text-4xl;
+    @apply mb-3;
+}
+/*Added padding to the posts*/
+.post{
+    @apply py-5;
+}
+.cat-links a,.tag-links a  {
+    @apply underline;
+}
+.cat-links a:hover, .tag-links a:hover {
+    @apply text-secondary;
+}

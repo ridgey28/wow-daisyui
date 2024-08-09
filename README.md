@@ -53,6 +53,12 @@ Wow Daisy UI is a WordPress theme which follows a step-by step tutorial on how t
 
 Part 1 - Initial setup of WordPress, Laravel Mix, Blank Slate WP Theme, Tailwind and Daisy UI (https://www.worldoweb.co.uk/2023/awesome-daisy-ui-wordpress-theme-part-1)
 
+Part 2 - Adding Daisy Navigation and Footer. (https://www.worldoweb.co.uk/2023/awesome-daisy-ui-wordpress-theme-part-2)
+
+Part 3 - Customising the search feature, making it more mobile friendly and sidebar with widgets. (https://www.worldoweb.co.uk/2024/awesome-daisy-ui-wordpress-theme-part-3)
+
+Part 4 - Post meta, Navigation and Comments. (https://www.worldoweb.co.uk/2024/awesome-daisy-ui-wordpress-theme-part-4)
+
 
 
 
