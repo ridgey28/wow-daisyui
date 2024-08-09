@@ -5,9 +5,9 @@
         <?php printf( esc_html__( 'Search Results for: %s', 'blankslate' ), get_search_query() ); ?></h1>
 </header>
 <?php while ( have_posts() ) : the_post(); ?>
-<?php get_template_part( 'entry' ); ?>
+<?php get_template_part( 'template-parts/entry/entry' ); ?>
 <?php endwhile; ?>
-<?php get_template_part( 'nav', 'below' ); ?>
+<?php get_template_part( 'template-parts/navigation/nav', 'below' ); ?>
 <?php else : ?>
 <article id="post-0" class="post no-results not-found">
     <header class="header">

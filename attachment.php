@@ -4,7 +4,8 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     <header class="header">
         <h1 class="entry-title" itemprop="name"><?php the_title(); ?></h1> <?php edit_post_link(); ?>
-        <?php get_template_part( 'entry', 'meta' ); ?>
+        <?php get_template_part( 'template-parts/entry/entry', 'meta' ); ?>
+        
         <a href="<?php echo esc_url( get_permalink( $post->post_parent ) ); ?>"
             title="<?php printf( esc_attr__( 'Return to %s', 'blankslate' ), esc_attr( get_the_title( $post->post_parent ), 1 ) ); ?>"
             rev="attachment"><?php printf( esc_attr__( '%s Return to ', 'blankslate' ), '<span class="meta-nav">&larr;</span>' ); ?><?php echo wp_kses_post( get_the_title( $post->post_parent ) ); ?></a>

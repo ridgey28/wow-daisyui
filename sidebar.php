@@ -6,4 +6,4 @@
         </ul>
     </div>
 </aside>
-<?php endif; ?>
+<?php endif;

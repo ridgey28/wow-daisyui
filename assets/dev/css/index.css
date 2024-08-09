@@ -22,3 +22,9 @@
 .post{
     @apply py-5;
 }
+.cat-links a,.tag-links a  {
+    @apply underline;
+}
+.cat-links a:hover, .tag-links a:hover {
+    @apply text-secondary;
+}
