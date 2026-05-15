@@ -4,7 +4,6 @@ npm-debug.log*
 
 # IDE
 .vscode/
-.github/
 .idea/
 *.iml
 
