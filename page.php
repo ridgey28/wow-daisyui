@@ -4,7 +4,8 @@
         the_post(); ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     <header class="header">
-        <h1 class="text-3xl font-bold" itemprop="name"><?php the_title(); ?></h1> <?php edit_post_link(); ?>
+        <h1 class="text-3xl font-bold my-4" itemprop="name"><?php the_title(); ?></h1>
+        <?php get_template_part('template-parts/entry/entry', 'edit-post'); ?>
     </header>
     <div class="entry-content prose" itemprop="mainContentOfPage">
         <?php if (has_post_thumbnail()) {

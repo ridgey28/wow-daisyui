@@ -72,13 +72,13 @@ function theme_pagination_class($class_name)
             $class_name = 'join-item btn btn-outline';
             break;
         case 'page':
-            $class_name = 'btn join-item';
+            $class_name = 'join-item btn';
             break;
         case 'extend':
             $class_name = 'join-item btn btn-disabled';
             break;
         case 'current':
-            $class_name = 'btn btn-active';
+            $class_name = 'join-item btn btn-active';
             break;
         case 'wrapper_class':
             $class_name = 'join';
